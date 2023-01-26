@@ -197,15 +197,13 @@ footer ul li {
 
 
 
-
-/* @media query  */
 @media (max-width: 1028px) {
 
   .name{
     text-align: center;;
   }
   .first {
-    margin: 50px auto auto;
+    margin-top: 50px;
     display: block;
    
   }
@@ -247,13 +245,13 @@ footer ul li {
 
   
   .second {
-    margin: 50px auto auto;
+    margin-top: 50px;
     display: block;
     
   }
   
   .third {
-    margin: 50px auto auto;
+    margin-top: 50px;
     display: block;
     
   }
@@ -282,4 +280,4 @@ footer ul li {
 
   
  
-}
+} 
