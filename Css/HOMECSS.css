@@ -204,36 +204,40 @@ footer ul li {
   .first {
     margin-top: 50px;
     display: block;
+   
   }
 
   .firsta {
-    margin-bottom: 20px;
-    width: 330px!important;
+    width: 350px!important;
+    margin: auto auto 20px;
   }
 
   
   .firstb {
-    width: 330px!important;
+    width: 350px!important;
+    margin: auto;
   }
 
   .seconda {
-    margin-bottom: 20px;
-    width: 330px!important;
+    width: 350px!important;
+    margin: auto auto 20px;
   }
   .secondb {
     
-    width: 330px!important;
+    width: 350px!important;
+    margin: auto;
   }
 
 
   .thirda {
-    margin-bottom: 20px;
-    width: 330px!important;
+    width: 350px!important;
+    margin: auto auto 20px;
   }
 
   .thirdb {
     
-    width: 330px!important;
+    width: 350px!important;
+    margin: auto;
   }
 
 
@@ -257,16 +261,20 @@ footer ul li {
    
     
   }
-  
-  .fourth {
-     width: 330px!important;
+
+
+  .fouth {
+
+    width: 350px!important;
+    margin: auto;
+
   }
 
   ul li {
     font-size: 15px!important;
   }
-  
-   .graphic li a {
+
+  .graphic li a {
     font-size: 16px;
   }
 
