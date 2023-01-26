@@ -1,0 +1,242 @@
+
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.topnav{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 40px;
+}
+
+.topnav a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  margin-top: 40px;
+  padding-right: 20px;
+  color: #454347;
+}
+
+
+p {
+  color: #454347;
+}
+
+.name{
+  margin-top: 230px;
+  margin-bottom: 270px;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Container */
+
+.sriram{
+  margin: 50px;
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.sriram .name {
+  padding-top: 123px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+
+}
+
+.sriram img {
+  width: 400px;
+  border-radius: 20px;
+}
+
+/* Case study */
+
+.first {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.second {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.third {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.four {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+h4 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px!important;
+}
+
+a {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px!important;
+}
+
+h5 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px!important;
+}
+
+
+
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding-top: 50px;
+}
+
+.contactus {
+  padding-bottom: 50px;
+}
+
+footer h3 {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer ul li {
+  margin-bottom: 10px;
+}
+
+.social-icons {
+  margin: 0;
+  padding: 0;
+}
+
+.social-icons li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-icons li a {
+  color: #fff;
+  font-size: 18px;
+}
+
+.copyright {
+  padding-top: 20px;
+  background-color: #222;
+  padding: 20px 0;
+}
+
+.copyright p {
+  color: #fff;
+  margin: 0;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media query  */
+@media (max-width: 1028px) {
+
+  .name{
+    text-align: center;;
+  }
+  .first {
+    margin-top: 50px;
+    display: block;
+  }
+
+  .firsta {
+    margin-bottom: 20px;
+  }
+
+  .seconda {
+    margin-bottom: 20px;
+  }
+
+
+  .thirda {
+    margin-bottom: 20px;
+  }
+
+
+  
+  .second {
+    margin-top: 50px;
+    display: block;
+    
+  }
+  
+  .third {
+    margin-top: 50px;
+    display: block;
+    
+  }
+  
+  .four {
+    margin-top: 50px;
+    display: block;
+    
+  }
+
+ 
+}
