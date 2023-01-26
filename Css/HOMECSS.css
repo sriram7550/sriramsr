@@ -254,8 +254,12 @@ footer ul li {
   .four {
     margin-top: 50px;
     display: block;
-    width: 350px!important;
+   
     
+  }
+  
+  .fourth {
+     width: 350px!important;
   }
 
   ul li {
