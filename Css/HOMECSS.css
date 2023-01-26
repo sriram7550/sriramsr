@@ -207,16 +207,34 @@ footer ul li {
 
   .firsta {
     margin-bottom: 20px;
+    width: 250px!important;
+  }
+
+  
+  .firstb {
+    width: 250px!important;
   }
 
   .seconda {
     margin-bottom: 20px;
+    width: 250px!important;
+  }
+  .secondb {
+    
+    width: 250px!important;
   }
 
 
   .thirda {
     margin-bottom: 20px;
+    width: 250px!important;
   }
+
+  .thirdb {
+    
+    width: 250px!important;
+  }
+
 
 
   
@@ -235,12 +253,9 @@ footer ul li {
   .four {
     margin-top: 50px;
     display: block;
+    width: 250px!important;
     
   }
-  
-   .firsta .firstb .seconda .secondb .thirda .thirdb .four {
-    width: 250px;
-  }
 
+  
  
-}
