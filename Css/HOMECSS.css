@@ -203,7 +203,7 @@ footer ul li {
     text-align: center;;
   }
   .first {
-    margin-top: 50px;
+    margin: 50px auto auto;
     display: block;
    
   }
