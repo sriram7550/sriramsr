@@ -1,6 +1,8 @@
 
 
 
+
+
 * {
   font-family: 'Poppins', sans-serif;
 }
@@ -257,11 +259,15 @@ footer ul li {
   
   .four {
     margin-top: 50px;
+   
+    
   }
 
 
   .fouth {
+
     width: 350px!important;
+
   }
 
   ul li {
